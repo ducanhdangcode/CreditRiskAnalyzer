@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86196c5b-cec4-4ce1-888b-81beb8147a97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/CreditRiskAnalyzerTestC2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/CreditRiskAnalyzerTestC2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CreditRiskAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/CreditRiskAnalyzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/CreditRiskAnalyzerTestAllUses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/CreditRiskAnalyzerTestAllUses.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CreditRiskAnalyzerTestC2">
+  <component name="RunManager" selected="JUnit.CreditRiskAnalyzerTestAllUses">
     <configuration name="CreditRiskAnalyzerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CreditRisk02" />
       <extension name="coverage">
@@ -63,6 +63,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.CreditRiskAnalyzerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreditRiskAnalyzerTestAllUses" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CreditRisk02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.CreditRiskAnalyzerTestAllUses" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CreditRiskAnalyzerTestAllUses" />
         <item itemvalue="JUnit.CreditRiskAnalyzerTestC2" />
         <item itemvalue="JUnit.CreditRiskAnalyzerTest" />
         <item itemvalue="JUnit.CreditRiskAnalyzerTest.TestRisk01" />
